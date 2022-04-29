@@ -23,7 +23,7 @@ public class HelloController {
      
      @GetMapping("objetivos")
  	public String objetivos_aprendezado() {
- 		return "MySQL <br/> Spring tooll <br/> Font end";
+ 		return "MySQL <br/> Spring boot <br/> Font end";
  	}
      
 	
